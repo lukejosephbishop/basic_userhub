@@ -11,8 +11,6 @@ function fetchData(url) {
       console.log(error);
     });
 }
-// let fakePost = { id: 1 }
-
 
 /*-------- Users --------*/
 function fetchUsers(url) {
