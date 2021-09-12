@@ -13,9 +13,6 @@ function fetchData(url) {
 }
 // let fakePost = { id: 1 }
 
-// setCommentsOnPost(fakePost)
-//   .then(console.log)
-//   .catch(console.error)
 
 /*-------- Users --------*/
 function fetchUsers(url) {
